@@ -1,4 +1,4 @@
-# Supply-Chain-Management
+# Supply-Chain-Management Capstone Project
 
 Welcome to the Supply Chain Regression Analysis Repository!
 
