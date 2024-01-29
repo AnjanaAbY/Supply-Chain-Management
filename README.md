@@ -10,6 +10,8 @@ supply. Where the demand is high, supply is pretty low and vice-versa which resu
 inventory cost and ultimately loss to the company. Hence, the higher management wants to
 optimize the supply quantity in each and every warehouse in the entire country.
 
+![OIP (5)](https://github.com/AnjanaAbY/Supply-Chain-Management/assets/132831620/7ed3d9ab-a4f2-4f72-a3a4-a50ef80c2ed0)
+
 This repository houses a detailed analysis and prediction framework for supply chain data. The code covers a range of machine learning regression algorithms, offering insights into their performance on the provided dataset. Key features include data exploration, preprocessing, feature engineering, and the application of popular algorithms such as Linear Regression, Lasso Regression, Ridge Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, and KNN.
 
 ## **Key Highlights:**
